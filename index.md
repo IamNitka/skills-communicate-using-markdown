@@ -16,3 +16,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var Var = "Hello World";
 ```
 
+### Adding a task list
+```
+- [ ] is the specific format// dont forget the space
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
